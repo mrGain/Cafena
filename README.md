@@ -1,4 +1,4 @@
-# Groco
+# Cafena
 
 This is a cofee Shop project called Cafena. This is a E-commerce web front end project but its meant for coffee Shop.This project is created using pure HTML, CSS, JS and no additional dependencies.
 
